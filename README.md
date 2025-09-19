@@ -7,7 +7,7 @@ This project analyzes pizza sales data to understand patterns, trends, and insig
 | File | Description |
 |---|---|
 | pizza_sales.csv | Raw dataset of pizza sales. |
-| Finding the total revenue from pizza sales.docx | Document with methodology / notes about revenue calculations. |
+| KPIs.docx | Document with methodology / notes about revenue calculations. |
 | Pizza Sales Dashboard.xlsx | Dashboard (Excel) summarizing key KPIs and visualizations. |
 | SQLQuery2.sql, SQLQuery3.sql, SQLQuery4.sql | SQL scripts to query the dataset for specific insights (e.g., total revenue, sales by category, trends over time). |
 
@@ -40,6 +40,7 @@ This project analyzes pizza sales data to understand patterns, trends, and insig
 - Automate data cleaning and reporting  
 - Add forecasting models (e.g., time series forecasting) for future demand  
 - Segment customers and analyze customer behaviour
+
 
 
 
