@@ -1,4 +1,4 @@
-﻿# Pizza Sales Analysis
+﻿# SLICES OF INSIGHT
 
 ## 📊 Project Overview
 This project analyzes pizza sales data to understand patterns, trends, and insights that can help improve decision-making. It explores sales, revenue, and performance metrics via data cleaning, visualization, and SQL queries.
@@ -40,5 +40,6 @@ This project analyzes pizza sales data to understand patterns, trends, and insig
 - Automate data cleaning and reporting  
 - Add forecasting models (e.g., time series forecasting) for future demand  
 - Segment customers and analyze customer behaviour
+
 
 
